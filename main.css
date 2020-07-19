@@ -1,0 +1,35 @@
+/* proprietà generali */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+}
+
+#wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#hant-map {
+  background-color: yellow;
+  width: 50vw;
+  height: 50vh;
+  border: solid 1px black
+}
+
+#map {
+   height: 100%;
+ }
+ html, body {
+   height: 100%;
+   margin: 0;
+   padding: 0;
+ }x
+44.4965643
+11.3349619
